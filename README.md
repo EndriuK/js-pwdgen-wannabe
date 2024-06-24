@@ -14,3 +14,4 @@ Infine scrivi sulla pagina nomecognomecolorepreferito23
 5. assegno a cognome il valore recuperato tramite prom
 6. dichiaro variabile colore preferito
 7. assegno alla variabile il valore recuperato tramite promp
+8. concateno i valori che ho recuperato per comporre la password che ho desiderato
